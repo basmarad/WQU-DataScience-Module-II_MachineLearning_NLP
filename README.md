@@ -1,4 +1,4 @@
-# WorldQuantUniversity-DataScience-ModuleII
+# WorldQuantUniversity-DataScience-Module II
 As part of the WQU DataScience Module, we were assigned a miniproject to predict which nursing home providers maybe fined and for how much. 
 
 
