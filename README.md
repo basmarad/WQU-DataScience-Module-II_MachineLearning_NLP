@@ -11,5 +11,6 @@ Objective I: Prediction of whether the facility is fined or not/Classification
 
 Objective II: Prediction of fine amounts/Regression
 
-Objective III: Surveys reveal safety and health deficiencies at nursing homes that may indicate risk for incidents (and penalties). CMS routinely makes surveys of nursing homes. 
+Objective III: Prediction of Survey Scores
+Surveys reveal safety and health deficiencies at nursing homes that may indicate risk for incidents (and penalties). CMS routinely makes surveys of nursing homes. 
 I built a model that combines the business_features of each facility with its cycle 1 survey results, as well as the time between the cycle 1 and cycle 2 survey to predict the cycle 2 total score.
