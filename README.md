@@ -4,7 +4,7 @@
 As part of the WQU DataScience Module, we were assigned a miniproject to predict which nursing home providers maybe fined and for how much. 
 
 ## Project II
-In this mini project, we build a model to predict the ratings of Amazon reviews. Additionally, polarity analysis and topic modeling were performed to determine the top positive and negative words in a corpus and key topic and theme in a corpus.
+In this mini project, we build a model to predict the ratings of Amazon reviews. Additionally, polarity analysis and topic modeling were performed to determine the top positive and negative words and key topic and theme in a corpus.
 
 ## Introduction
 
